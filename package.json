@@ -1,0 +1,17 @@
+{
+  "name": "namste-react",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "durgesh sonawane",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "parcel": "^2.15.4"
+  },
+  "dependencies": {
+    "react": "^19.1.1",
+    "react-dom": "^19.1.1"
+  }
+}
