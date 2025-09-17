@@ -2,6 +2,8 @@
   "name": "namste-react",
   "version": "1.0.0",
   "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
     "test": "jest"
   },
   "author": "durgesh sonawane",
@@ -13,5 +15,8 @@
   "dependencies": {
     "react": "^19.1.1",
     "react-dom": "^19.1.1"
-  }
+  },
+  "browserslist": [
+    "last 10 Chrome versions"
+  ]
 }

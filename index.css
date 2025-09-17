@@ -1,3 +1,40 @@
 .header {
-    color:red
+    display: flex;
+    justify-content: space-between;
+    border: 1px solid lightskyblue;
+    padding: 0;
+}
+
+.logo-container {
+    padding: 0px;
+}
+.logo {
+    width: 100px;
+}
+
+.nav-items>ul {
+    display: flex;
+    list-style-type: none;
+}
+
+.nav-items>ul>li {
+    padding: 20px;
+}
+.res-card {
+    width: 200px;
+    padding: 5px;
+    background-color:lightgray;
+    margin: 5px;
+    
+}
+.res-card:hover {
+    border: 1px solid greenyellow;
+    cursor: pointer;
+}
+.res-logo {
+    width: 100%;
+}
+.res-container {
+    display: flex;
+    flex-wrap: wrap;
 }

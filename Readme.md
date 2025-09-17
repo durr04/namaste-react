@@ -13,3 +13,11 @@
 - Code splitting
 - Differential Bundling - support older browsers
 - Different dev & prod bundles
+
+
+# package.json
+- to start the app npm run start
+for that add config in the file 
+ -> scripts -> start command
+ start : parcel index.html
+# Named export vs Default export
