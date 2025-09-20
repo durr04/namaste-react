@@ -72,13 +72,6 @@
       },
       ratingsDisplayPreference: "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY",
     },
-    analytics: {
-      context: "seo-data-65a2341c-a3b5-4803-b123-38f76534b6d6",
-    },
-    cta: {
-      link: "https://www.swiggy.com/city/pune/pizza-hut-baner-sus-road-rest751495",
-      type: "WEBLINK",
-    },
   },
   {
     info: {

@@ -38,3 +38,15 @@
     display: flex;
     flex-wrap: wrap;
 }
+.shimmer-container {
+    display: flex;
+    flex-wrap: wrap;
+}
+.shimmer-ui{
+    height: 400px;
+    width: 200px;
+    padding: 5px;
+    background-color:lightgray;
+    animation: shimmer 1.5s infinite;
+    margin: 5px;
+}

@@ -4,7 +4,7 @@ import { IMG_CDN_URL } from "../utils/constants";
 // 1 (props)
 // 2 ({resName, cuisine})
 const RestaurantCard = (props) => {
-  console.log(props);
+  //console.log(props);
   // object destructring
   const { resData } = props;
   const { name, cloudinaryImageId, cuisines, avgRating, sla } = resData.info;

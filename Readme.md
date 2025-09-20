@@ -21,3 +21,9 @@ for that add config in the file
  -> scripts -> start command
  start : parcel index.html
 # Named export vs Default export
+
+# React Hooks
+ -useState
+ -useEffect
+
+# Shimmer UI
